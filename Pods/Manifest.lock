@@ -1,0 +1,16 @@
+PODS:
+  - RangeSeekSlider (1.8.0)
+
+DEPENDENCIES:
+  - RangeSeekSlider
+
+SPEC REPOS:
+  trunk:
+    - RangeSeekSlider
+
+SPEC CHECKSUMS:
+  RangeSeekSlider: 650b11fa1edcb92e1e0ede797669d98622570fb5
+
+PODFILE CHECKSUM: 895c3d4875494a1f7893b857ce7b36a913023a86
+
+COCOAPODS: 1.8.4
