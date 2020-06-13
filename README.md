@@ -11,5 +11,5 @@ A simple game of guessing the random number using slider.
 - Implemeted cusotom UISlider.
 - Easy, Medium and Hard mode.
 
-## Frameworks Used
+## Framework Used
 * RangeSeekSlider - To customize UISlider.
